@@ -1,0 +1,7 @@
+[
+{"departamento":"CALDAS","municipio":"AGUADAS","propiedad_observada":"MERCURIO TOTAL EN SEDIMENTOS","resultado":"0.087","unidad":"mg Hg/kg","fecha":"2007-03-09"},
+{"departamento":"CALDAS","municipio":"AGUADAS","propiedad_observada":"MERCURIO TOTAL EN SEDIMENTOS","resultado":"0.073","unidad":"mg Hg/kg","fecha":"2011-04-11"},
+{"departamento":"HUILA","municipio":"NEIVA","propiedad_observada":"MERCURIO TOTAL EN SEDIMENTOS","resultado":"0.224","unidad":"mg Hg/kg","fecha":"2010-09-24"},
+{"departamento":"VALLE","municipio":"CALI","propiedad_observada":"CADMIO TOTAL EN AGUA","resultado":"<0.01","unidad":"mg Cd/L","fecha":"2007-03-09"},
+{"departamento":"ANTIOQUIA","municipio":"MEDELLIN","propiedad_observada":"COLIFORMES TOTALES","resultado":"18000","unidad":"UFC/100 mL","fecha":"2007-03-09"}
+]
